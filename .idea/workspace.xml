@@ -7,7 +7,12 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1WS8A08jbPQG1kU9hHZBwnaJoKf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -17,10 +22,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -60,6 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579131488261</updated>
       <workItem from="1579131493265" duration="852000" />
+      <workItem from="1579132643766" duration="1892000" />
     </task>
     <servers />
   </component>
@@ -67,21 +77,37 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1366" height="267" key="GridCell.Tab.0.bottom" timestamp="1579132346205">
+    <state x="574" y="426" key="FileChooserDialogImpl" timestamp="1579134493470">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1366" height="267" key="GridCell.Tab.0.bottom/0.0.1620.1080@0.0.1620.1080" timestamp="1579132346205" />
-    <state width="1366" height="267" key="GridCell.Tab.0.center" timestamp="1579132346205">
+    <state x="574" y="426" key="FileChooserDialogImpl/0.0.1620.1080@0.0.1620.1080" timestamp="1579134493470" />
+    <state width="1366" height="267" key="GridCell.Tab.0.bottom" timestamp="1579144311955">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1366" height="267" key="GridCell.Tab.0.center/0.0.1620.1080@0.0.1620.1080" timestamp="1579132346205" />
-    <state width="1366" height="267" key="GridCell.Tab.0.left" timestamp="1579132346205">
+    <state width="1366" height="267" key="GridCell.Tab.0.bottom/0.0.1620.1080@0.0.1620.1080" timestamp="1579144311955" />
+    <state width="1366" height="267" key="GridCell.Tab.0.center" timestamp="1579144311955">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1366" height="267" key="GridCell.Tab.0.left/0.0.1620.1080@0.0.1620.1080" timestamp="1579132346205" />
-    <state width="1366" height="267" key="GridCell.Tab.0.right" timestamp="1579132346205">
+    <state width="1366" height="267" key="GridCell.Tab.0.center/0.0.1620.1080@0.0.1620.1080" timestamp="1579144311955" />
+    <state width="1366" height="267" key="GridCell.Tab.0.left" timestamp="1579144311954">
       <screen x="0" y="0" width="1620" height="1080" />
     </state>
-    <state width="1366" height="267" key="GridCell.Tab.0.right/0.0.1620.1080@0.0.1620.1080" timestamp="1579132346205" />
+    <state width="1366" height="267" key="GridCell.Tab.0.left/0.0.1620.1080@0.0.1620.1080" timestamp="1579144311954" />
+    <state width="1366" height="267" key="GridCell.Tab.0.right" timestamp="1579144311955">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state width="1366" height="267" key="GridCell.Tab.0.right/0.0.1620.1080@0.0.1620.1080" timestamp="1579144311955" />
+    <state x="296" y="313" key="SettingsEditor" timestamp="1579134562184">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="296" y="313" key="SettingsEditor/0.0.1620.1080@0.0.1620.1080" timestamp="1579134562184" />
+    <state x="601" y="587" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579134548827">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="601" y="587" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1620.1080@0.0.1620.1080" timestamp="1579134548827" />
+    <state x="443" y="233" key="run.anything.popup" timestamp="1579144290700">
+      <screen x="0" y="0" width="1620" height="1080" />
+    </state>
+    <state x="443" y="233" key="run.anything.popup/0.0.1620.1080@0.0.1620.1080" timestamp="1579144290700" />
   </component>
 </project>
